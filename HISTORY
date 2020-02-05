@@ -1,7 +1,11 @@
+2019.11.22. Rewrote README as a markdown file. [README]
+2019.10. 1. Enabled make uninstall. [makefile]
+2019. 8. 8. Reflected renaming of zNameDestroy to zNameFree. [liw_dl]
+2019. 6.18. Corrected makefile to check dependency (thanks to Naoki Wakisaka). [makefile]
 2019. 6.13. Registered lib and some dot files for Git. [lib]
 2018.12.12. Followed renaming of CURE to ZEDA. [all]
 2018.11.16. Reflected removal of ZSYSERROR. [liw_ipc, liw_socket]
-2018. 7. 9. Debugd liw_time. [liw_time] (by Naoki Wakisaka)
+2018. 7. 9. Debugd liw_time. (by Naoki Wakisaka) [liw_time]
 2015. 2. 9. Applied cure-config-gen. [app]
 2015. 1. 7. Added liw-config. [app]
 2015. 1. 6. Modified the type of id in liwPActionRT. [liw_paction]
